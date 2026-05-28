@@ -12,3 +12,9 @@ export const clamp = (n: number, a: number, b: number) => Math.max(a, Math.min(b
 ```ts
 export const clamp = (n: number, a: number, b: number) => Math.max(a, Math.min(b, n));
 ```
+
+## Note 423334
+
+```ts
+export const clamp = (n: number, a: number, b: number) => Math.max(a, Math.min(b, n));
+```
